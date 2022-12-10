@@ -1,0 +1,15 @@
+.success {
+  background-color: #f1f1fb;
+  padding: 60px;
+  margin-top: 40px;
+}
+
+.success .info {
+   text-align: start;
+}
+@media (max-width: 991px) {
+  .success .info {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
